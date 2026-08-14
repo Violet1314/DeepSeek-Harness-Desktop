@@ -1,8 +1,6 @@
 # DeepSeek-Harness-Desktop
 
-DeepSeek Harness 官方 Web 界面的 Windows 桌面客户端。下载即用、双击即开，无需命令行配置，为 Win10/11 用户提供开箱即用的 AI 编程体验。
-
-A Windows desktop client wrapping the official DeepSeek Harness web UI. Download, install, and start using it right away — no command-line setup required, delivering an out-of-the-box AI coding experience for Windows 10/11 users.
+DeepSeek Harness 官方 Web 界面的 Windows 桌面客户端 支持Win10/11。
 
 ---
 
@@ -11,24 +9,6 @@ A Windows desktop client wrapping the official DeepSeek Harness web UI. Download
 <img width="493" height="360" alt="2" src="https://github.com/user-attachments/assets/327fa3e1-a257-4a2c-8138-7ab1edcf47b5" />
 
 <img width="1585" height="1021" alt="1" src="https://github.com/user-attachments/assets/78633fdc-a27e-4f43-a8c2-48a5e98de685" />
-
-## 为什么做这个项目？
-
-官方 DeepSeek Harness 以 Node.js 命令行方式运行，普通用户需要安装运行环境、记忆命令、手动管理进程，使用门槛较高。本项目把官方内核整体封装进 Windows 桌面应用，让使用回归简单：
-
-- ✅ 无需安装 Node.js / npm，无需任何命令行操作
-- ✅ 双击安装包 → 装完即用，打开就是完整界面
-- ✅ 关闭窗口自动终止内核进程，不留后台残留
-- ✅ 跟随官方内核持续迭代，定期发布新版本
-
-## ✨ 功能特性
-
-- **官方内核，原汁原味**：封装官方 `@deepseek-ai/dsh` Web UI，内核零改动
-- **下载即用**：NSIS 安装包，支持自定义安装目录，适配 Windows 10 / 11（x64）
-- **单实例运行**：重复启动自动聚焦已有窗口，不重复拉起内核
-- **自动清理**：关闭窗口即终止内核进程，不占用后台资源
-- **异常兜底**：端口占用、内核异常均有中文错误提示
-- **数据保留**：升级覆盖安装后，原有配置与历史会话自动保留
 
 ## 📦 下载安装
 
