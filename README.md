@@ -7,7 +7,7 @@ DeepSeek Harness 官方 Web 界面的 Windows 桌面客户端 支持Win10/11。
 ## 界面预览
 
 <img width="493" height="360" alt="2" src="https://github.com/user-attachments/assets/327fa3e1-a257-4a2c-8138-7ab1edcf47b5" />
-
+<img width="492" height="358" alt="3" src="https://github.com/user-attachments/assets/186937d7-5fbd-4118-b40b-49e4ba05104e" />
 <img width="1585" height="1021" alt="1" src="https://github.com/user-attachments/assets/78633fdc-a27e-4f43-a8c2-48a5e98de685" />
 
 ## 📦 下载安装
